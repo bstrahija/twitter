@@ -1,0 +1,7 @@
+name: twitter
+
+version: 0.5.0
+
+compatibility: 2.0.2
+
+tags: ["twitter", "timeline", "simple"]
